@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akromatikus
 - 👀 I’m interested in electronics, 3D printing, coding, audio engineering, among other things!
-- 🌱 I’m currently learning Python, C/C++, and some Javascript. 
+- 🌱 I’m currently learning Python, C/C++, HTML/CSS, Max/MSP, and some Javascript. 
 - 📫 How to reach me - email: dasdude0325@gmail.com
 
 <!---
